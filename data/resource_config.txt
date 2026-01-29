@@ -1,0 +1,8 @@
+HOSTS
+{'id': 'Host1', 'cores': 4, 'ram': 8192, 'storage': 100000}
+{'id': 'Host2', 'cores': 4, 'ram': 8192, 'storage': 100000}
+
+VMS
+{'name': 'VM1', 'type': 'small', 'cores': 1, 'runtime': 5}
+{'name': 'VM2', 'type': 'medium', 'cores': 2, 'runtime': 6}
+{'name': 'VM3', 'type': 'large', 'cores': 3, 'runtime': 7}
